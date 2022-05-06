@@ -22,7 +22,7 @@ This was my first move into machine learning,  so most of the time spent on this
 
 The classifier has an astonishing 86% accuracy rate! I think a large part of this large success rate came down to the quality of the training data, and since I used popular sources, such as Stanford and Kaggle, the training data was representative of a large portion of the testing data. 
 
-## What we learned
+## What I learned
 
 This was my first move into machine learning, and so I learned a lot by building this. In particular, I learned how to use Count Vectorizer to vectorize texts and Bernoulli Naive Bayes classifiers as a base for a custom model. 
 
